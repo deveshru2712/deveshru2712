@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on **Web-Realted Projects**
+- 👯 I’m looking to collaborate on **Web-Related Projects**
 
 - 💬 Ask me about **react,gsap,js**
 
