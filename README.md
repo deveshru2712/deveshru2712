@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Definitely not an engineer, but I enjoy building things.<br><br>🔭 What I'm working on<br>Currently focusing on building scalable full-stack applications with TypeScript and Next.js.<br><br>🌱 What I'm learning<br>Always improving my skills in system design and exploring new frontend animation techniques with GSAP.<br><br>🤝 Let's connect<br> 
+<p align="left">Definitely not an engineer, but I enjoy building things.<br><br>🔭 What I'm working on<br>Currently focusing on building scalable full-stack applications with TypeScript and Next.js.<br><br>🌱 What I'm learning<br>frontend animation techniques with GSAP and FRAMER.<br><br>🤝 Let's connect<br> 
   <div align="left">
     <a href="https://x.com/deveshru2712" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
