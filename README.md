@@ -12,9 +12,11 @@
 
 ###
 
-<div align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,express,react,tailwind,vite,ts,nextjs,mongodb,postgres,supabase,prisma,postman,vercel,docker" />
+  </a>
+</p>
 
 ###
 
