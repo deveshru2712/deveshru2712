@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="left">🧠 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=deveshru2712&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshru2712&layout=compact&theme=dracula&langs_count=6" height="150" alt="Top Languages" />
 </div>
-
----
-
-<h3 align="center">💬 “Build fast. Learn faster.”</h3>
