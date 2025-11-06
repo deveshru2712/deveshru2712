@@ -1,29 +1,34 @@
-<h1 align="left">Hi, I am Devesh Chandra.</h1>
+<h1 align="left">👋 Hi, I’m Devesh Chandra</h1>
 
-###
-
-<p align="left">Definitely not an engineer, but I enjoy building things.<br><br>🔭 What I'm working on<br>Currently focusing on building scalable full-stack applications with TypeScript and Next.js.<br><br>🌱 What I'm learning<br>frontend animation techniques with GSAP and FRAMER.<br><br>🤝 Let's connect<br> 
-  <div align="left">
-    <a href="https://x.com/deveshru2712" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-    <a/>
-  <div>  
-</p>
-
-###
-
-<h2 align="left">📦 Skills</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,express,react,tailwind,vite,ts,nextjs,mongodb,postgres,supabase,prisma,postman,vercel,docker" />
+<p align="left">
+  I love <strong>building things that work beautifully and scale effortlessly.</strong><br><br>
+  🔭 <strong>Currently working on:</strong> Scalable full-stack web applications using <strong>Next.js</strong> and <strong>TypeScript</strong>.<br><br>
+  🌱 <strong>Learning:</strong> Advanced development — <strong>Framer Motion, clean architecture, design systems, and performance optimization</strong>.<br><br>
+  🤝 <strong>Let’s connect:</strong>  
+  <a href="https://x.com/deveshru2712" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="Twitter logo" />
   </a>
 </p>
 
-###
+---
+
+<h2 align="left">🧠 Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,vite,mongodb,postgres,supabase,prisma,git,github,docker,postman,vercel" />
+  </a>
+</p>
+
+---
+
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deveshru2712&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshru2712&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deveshru2712&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshru2712&layout=compact&theme=dracula&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
+---
+
+<h3 align="center">💬 “Build fast. Learn faster.”</h3>
